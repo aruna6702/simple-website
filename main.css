@@ -16,7 +16,7 @@ ul {
     font-family: monospace;
   }
   .light-theme {
-    --bg: var(--green);
+    --bg: var(--grey);
     --fontColor: var(--black);
     --btnBg: var(--black);
     --btnFontColor: var(--white);
