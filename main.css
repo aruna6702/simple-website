@@ -5,7 +5,7 @@ body {
 ul {
     font-family: helvetica;
 }li {
-    list-style: circle;
+    list-style: square;
   }
   
   .list {
